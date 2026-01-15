@@ -6,7 +6,7 @@ Make sure you have the following setting in your /etc/bind.conf: <br/>
 
 You will need the following:<br/>
 1. Twilio account for Phone calls with a phone number that can call perform outbound calls.
-2. AWS account for SMS. (make sure you increase the [$1 SMS limit](https://docs.aws.amazon.com/general/latest/gr/sns.html#:~:text=Account%20spend%20threshold%20for%20SMS)
+2. AWS account for SMS. (make sure you increase the [$1 SMS limit](https://docs.aws.amazon.com/general/latest/gr/sns.html#:~:text=Account%20spend%20threshold%20for%20SMS))
 3. A domain with DNS delegating to the instance IP that runs this script.
 
 How does it work?<br/>
